@@ -204,7 +204,7 @@
             "fields": [
                 "What is this keyboard layout?<div><br></div><div><img src=\"colemak_keyboard.svg\"><br></div>",
                 "Colemak keyboard",
-                ""
+                "This card is primarily to ensure that the file <code>colemak_keyboard.svg</code> is imported into the media folder and later correctly synced.  It could be safely suspended."
             ],
             "flags": 0,
             "guid": "Iu?t-SEmrg",
@@ -220,6 +220,318 @@
             ],
             "flags": 0,
             "guid": "s)Sz#vGV_3",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "b",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nh=?)rVd6_",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "c",
+                ""
+            ],
+            "flags": 0,
+            "guid": "i#2`aEmNDE",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "d",
+                ""
+            ],
+            "flags": 0,
+            "guid": "IG6ASEuxp*",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "e",
+                ""
+            ],
+            "flags": 0,
+            "guid": "H+sWBRTv$o",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "f",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Qm(rWO|#<7",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "g",
+                ""
+            ],
+            "flags": 0,
+            "guid": "czxEVV8ug4",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "h",
+                ""
+            ],
+            "flags": 0,
+            "guid": "mI3sZh*EdB",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "i",
+                ""
+            ],
+            "flags": 0,
+            "guid": "DMG5#[Z:uE",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "j",
+                ""
+            ],
+            "flags": 0,
+            "guid": "x^Bj1s)}E7",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "k",
+                ""
+            ],
+            "flags": 0,
+            "guid": "rz=^@7:Bvg",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "l",
+                ""
+            ],
+            "flags": 0,
+            "guid": "psIo>}q/GT",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "m",
+                ""
+            ],
+            "flags": 0,
+            "guid": "J|4q0np!#=",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "n",
+                ""
+            ],
+            "flags": 0,
+            "guid": "gL^Cyn^/hW",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "o",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g1Gi.]!N0a",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "p",
+                ""
+            ],
+            "flags": 0,
+            "guid": "fPQr5LD;*+",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "q",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Pn$xn?vSbm",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "r",
+                ""
+            ],
+            "flags": 0,
+            "guid": "g=vYYTa5f?",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "s",
+                ""
+            ],
+            "flags": 0,
+            "guid": "L}f#J(ct6p",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "t",
+                ""
+            ],
+            "flags": 0,
+            "guid": "f11prZKu_M",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "u",
+                ""
+            ],
+            "flags": 0,
+            "guid": "HV-Rno@*~i",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "v",
+                ""
+            ],
+            "flags": 0,
+            "guid": "Oy{^{)2aSZ",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "w",
+                ""
+            ],
+            "flags": 0,
+            "guid": "nrR&{t]_|l",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "x",
+                ""
+            ],
+            "flags": 0,
+            "guid": "yFU.%*WDES",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "y",
+                ""
+            ],
+            "flags": 0,
+            "guid": "jj{&0SC]r|",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "z",
+                ""
+            ],
+            "flags": 0,
+            "guid": "A)Gl1X/hKA",
+            "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "data": "",
+            "fields": [
+                "semicolon",
+                ""
+            ],
+            "flags": 0,
+            "guid": "JOzk#!V0[m",
             "note_model_uuid": "7cd05983-239f-11eb-9d20-5404a617afb5",
             "tags": []
         }
