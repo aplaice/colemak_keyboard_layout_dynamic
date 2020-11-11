@@ -1,0 +1,32 @@
+* Purpose
+
+This was primarily intended as an experiment to check whether dynamically updating a single SVG in an iframe, by "posting messages", as described in [[https://github.com/axelboc/anki-ultimate-geography/issues/1#issuecomment-423953974][this comment]], could be used to generate multiple different, but similar, images for different cards.
+
+* Shortcomings
+
+** Lack of compatibility with all reasonable versions of all platforms
+
+The basic approach worked for both Desktop and Ankidroid, but failed for old versions (the only ones I had access to) of Ankimobile (for iOS).
+
+It's possible that an alternative set of scripts would also works for iOS — JS did seem to be executed, but it produced an error message.
+
+** Unresponsive width
+
+One significant issue was that the images in iframes, unlike "normal" images in Anki on all platforms didn't resize to fit the width of the screen. This is particularly problematic on mobile.
+
+The simple approach of =max-width: 100%= or =max-width: 95%=, which works for images obviously doesn't work for iframes. The first couple of google results for remedies to this didn't seem to help. Given the previous shortcoming, I spent very little time here, so this issue is probably easily solvable.
+
+* Security
+
+I **think** that despite receiving messages from all sources, the JS in the SVG doesn't open up a security hole.
+
+* Disclaimers
+
+1. As mentioned above, it doesn't work for all platforms.
+2. The deck is obviously not intended as a replacement for actual practice of using the keyboard, just as a replacement for hanging up the layout beside your screen (which is what's suggested on the main Colemak website).
+
+* Licences
+
+=media/colemak_keyboard.svg= is based on https://en.wikipedia.org/wiki/File:KB_US-Colemak.svg, which is CC BY-SA 3.0, hence it's licenced under the same.
+
+The scripts and =deck.json= are released into the public domain (CC0 in case of doubt). (I believe that the [[https://github.com/axelboc/anki-ultimate-geography/issues/1#issuecomment-423953974][aforementioned original versions of the scripts]] were under the threshold for copyrightability.)
