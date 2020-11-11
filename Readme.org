@@ -1,3 +1,7 @@
+* Use
+
+You need [[https://github.com/Stvad/CrowdAnki][CrowdAnki]] to install this Anki deck.
+
 * Purpose
 
 This was primarily intended as an experiment to check whether dynamically updating a single SVG in an iframe, by "posting messages", as described in [[https://github.com/axelboc/anki-ultimate-geography/issues/1#issuecomment-423953974][this comment]], could be used to generate multiple different, but similar, images for different cards.
